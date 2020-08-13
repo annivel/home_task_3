@@ -1,0 +1,6 @@
+*.txt
+build/
+.idea/
+.gradle/
+.allure/
+gradle/
